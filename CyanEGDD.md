@@ -11,9 +11,9 @@ In Boolean Bonanza, you are presented with a grid of squares representing boolea
 - Yoshi's Cookie:
   - Medium: Video Game
   - Explanation: Yoshi's Cookie multiplayer mode inspired the block movement of the grid. In Yoshi's Cookie, the player can move rows and columns such that their order is maintained and the blocks wrap around the other side. This will allow for greater control than a system like Candy Crush where only two blocks can be switched at a time.
-- *Influence #2*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+- Candy Crush:
+  - Medium: Video Game
+  - Explanation: Candy Crush is a popular "match-3" style game that incorporates a pleasing visual style to draw in players. The graphics and animations of Candy Crush are considered so good as to be addictive by some, which could be mimicked to encourage players to participate in this educational game. Blocks in Candy Crush explode into satisfying particle effects when broken. This is something that should be incorporated into Boolean Bonanza.
 - *Influence #3*:
   - Medium: *(Television, Games, Literature, Movies, etc.)*
   - Explanation: *In one paragraph or less, explain why this is an influence.*
