@@ -47,6 +47,9 @@ Boolean Bonanza can be used at home as a study tool in order to practice boolean
 
 *Remember, Learning Objectives are NOT simply topics. They are statements of observable behavior that a learner can do after the learning experience. You cannot observe someone "understanding" or "knowing" something.*
 
+-  Truthiness of Booleans: By the end of the lesson, players will be able to explain the truthiness of a boolean expression with at least two variables
+-  Adjustment of Booleans: By the end of the lesson, players will be able to rearrange boolean expressions in order to achieve a truthful outcome.
+
 - *Short Name*: *Formal Learning Objective #1*
 - *Short Name*: *Formal Learning Objective #2*
 - *Short Name*: *Formal Learning Objective #3*
