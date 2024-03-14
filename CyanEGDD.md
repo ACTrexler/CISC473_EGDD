@@ -64,6 +64,13 @@ In Boolean Bonanza, you are presented with a grid of squares representing boolea
 
 *If proposing a new instrument, briefly and concisely list some example assessment questions.*
 
+A short pre-test and matching post-test should be designed to assess student learning.
+The exact format of the test will be multiple choice where the student will be tasked with identifying which boolean expression of the four options provided evaluates to true. Students will be assesed based on their accuracy and efficiency.
+
+- Given a list of four boolean expression with two variables, identify the expression that evaluates to true.
+- Given a list of four boolean expression with three variables, identify the expression that evaluates to true.
+- Given a list of four boolean expression with four variables, identify the expression that evaluates to true.
+
 # What sets this project apart?
 
 *Give some reasons why this game is not like every other game out there. Whether the learning objective is unique, the gameplay mechanics are new, or what. You should persuade the reader that your game is novel and worthy of development. Consider arguments that would be persuasive to a Venture Capitalist, Teacher, or Researcher. These might be focused on learning needs, too.*
