@@ -100,14 +100,14 @@ The exact format of the test will be multiple choice where the student will be t
 5 x 5 Boolean Grid: the player will make valid boolean statements with two operators.
 
 # Gameplay Objectives
-
-- *Primary Objective #1*:
-    - Description: *Description*
-    - Alignment: *Describe how this aligns with one or more learning objectives*
-- *Primary Objective #2*:
-    - Description: *Description*
-    - Alignment: *Describe how this aligns with one or more learning objectives*
-- *etc.*
+  
+- Scoring Points By Making Valid Truthiness Statements:
+    - Description: Each valid truthiness statement will result in gaining an amount of points adding to you current score.
+    - Alignment: By gaining points, this will allow the player to see how many valid statements they are able to make.
+- Scoring As Many Points As You Can Before The Time Is Up:
+    - Description: In Boolean Bonanza there will be a time limit for each level. During this time the player must make as many valid        
+      statements as they can. 
+    - Alignment: Each time the player plays the game they will be able to see their learning progress each time they score higher given the       same time restriction.
 
 # Procedures/Actions
 
