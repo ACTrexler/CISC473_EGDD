@@ -32,6 +32,9 @@ In Boolean Bonanza, you are presented with a grid of squares representing boolea
 ## Learning Domains
 
 *Briefly list any and all of the disciplines and learning domains for this subject.*
+Logic
+Discrete Math
+Introducotry Programming (language is irrelevant given it has boolean values)
 
 ## Target Audiences
 
