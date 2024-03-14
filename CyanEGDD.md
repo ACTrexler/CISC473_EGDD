@@ -1,4 +1,4 @@
-# Game Name
+ # Game Name
 
 ## Elevator Pitch
 
@@ -8,9 +8,9 @@ In Boolean Bonanza, you are presented with a grid of squares representing boolea
 
 ## Influences (Brief)
 
-- *Influence #1*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+- Yoshi's Cookie:
+  - Medium: Video Game
+  - Explanation: Yoshi's Cookie multiplayer mode inspired the block movement of the grid. In Yoshi's Cookie, the player can move rows and columns such that their order is maintained and the blocks wrap around the other side. This will allow for greater control than a system like Candy Crush where only two blocks can be switched at a time.
 - *Influence #2*:
   - Medium: *(Television, Games, Literature, Movies, etc.)*
   - Explanation: *In one paragraph or less, explain why this is an influence.*
