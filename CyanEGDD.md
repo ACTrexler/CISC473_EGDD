@@ -83,6 +83,12 @@ The exact format of the test will be multiple choice where the student will be t
 
 *Give some reasons why this game is not like every other game out there. Whether the learning objective is unique, the gameplay mechanics are new, or what. You should persuade the reader that your game is novel and worthy of development. Consider arguments that would be persuasive to a Venture Capitalist, Teacher, or Researcher. These might be focused on learning needs, too.*
 
+- Most computer science games revolve around code-writing, this one focuses solely on sharpening the players understanding of boolean expressions.
+- The visuals of the game will mimic a Nintendo/Indie game with a bright and attractive atmosphere.
+- With all input involving the shifting of blocks, the controls of the game are simple and easy to learn.
+- The simple nature of the game along with its flashiness will be addictive to players.
+- NEEDS MORE?
+
 - *Reason #1*
 - *Reason #2*
 - *Reason #3*
