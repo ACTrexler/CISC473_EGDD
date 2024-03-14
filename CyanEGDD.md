@@ -53,8 +53,10 @@ In Boolean Bonanza, you are presented with a grid of squares representing boolea
 
 *What do they need to know prior to trying this game?*
 
-- *Prerequisite Learning Objective #1*
-- *Prerequisite Learning Objective #2*
+- Prior to the game, players need to be able to define the concept of evaluating a boolean expression.
+- Prior to the game, players need to be able to evaluate a boolean expression.
+- Prior to the game, players need to be able to evaluate a boolean expression with more than two variables.
+- Prior to the game, players need to be able to define the concept of order of operations regarding boolean expressions.
 
 ## Assessment Measures
 
