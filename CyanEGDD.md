@@ -36,10 +36,12 @@ In Boolean Bonanza, you are presented with a grid of squares representing boolea
 ## Target Audiences
 
 *Who are your learners?*
+Boolean Bonanza is targeted for young computer scientists in middle school or high school looking to learn the basics of boolean statements.
 
 ## Target Contexts
 
 *Describe what kinds of formal and informal learning contexts this will be used in (e.g., courses, k-12 computer labs during free time).*
+Boolean Bonanza can be used at home as a study tool in order to practice boolean concepts. It can also be used in a classroom setting as an exercise to further strengthen one's booolean knowledge.
 
 ## Learning Objectives
 
@@ -94,6 +96,8 @@ The exact format of the test will be multiple choice where the student will be t
 - *Player mode #1*: *Description*
 - *Player mode #2*: *Description*
 - *etc.*
+3 x 3 Boolean Grid: the player will make valid boolean statements with only one operator.
+5 x 5 Boolean Grid: the player will make valid boolean statements with two operators.
 
 # Gameplay Objectives
 
