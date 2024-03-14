@@ -105,11 +105,9 @@ The exact format of the test will be multiple choice where the student will be t
 
 *Your game has one or more player modes. Describe each discrete mode, considering things like menus too. Generally describe the transitions between modes too.*
 
-- *Player mode #1*: *Description*
-- *Player mode #2*: *Description*
-- *etc.*
-3 x 3 Boolean Grid: the player will make valid boolean statements with only one operator.
-5 x 5 Boolean Grid: the player will make valid boolean statements with two operators.
+- Main Menu: allows the player to pick between a 3 x 3 and 5 x 5 depending on the player's experience.
+- 3 x 3 Boolean Grid: the player will make valid boolean statements with only one operator. After completing this level they will be given the option to play again or move on to the next level.
+- 5 x 5 Boolean Grid: the player will make valid boolean statements with two operators. After completing this level they will be given the opportunity to play again.
 
 # Gameplay Objectives
   
