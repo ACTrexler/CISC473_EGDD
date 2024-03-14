@@ -14,9 +14,9 @@ In Boolean Bonanza, you are presented with a grid of squares representing boolea
 - Candy Crush:
   - Medium: Video Game
   - Explanation: Candy Crush is a popular "match-3" style game that incorporates a pleasing visual style to draw in players. The graphics and animations of Candy Crush are considered so good as to be addictive by some, which could be mimicked to encourage players to participate in this educational game. Blocks in Candy Crush explode into satisfying particle effects when broken. This is something that should be incorporated into Boolean Bonanza.
-- *Influence #3*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+- 2048:
+  - Medium: Video Game
+  - Explanation: 2048 is a popular online matching game where players are tasked with combining squares based on their numerical value. Squares start with low powers of 2 (2, 4, 8, etc.) and are combined with squares of the same value until the player reaches a square of number 2048. The difficulty comes from squares of different values getting in the way of making matches. This is similar to the difficulty in Boolean Bonanza, which comes from the fact that randomly ordered squares will evaluate to false or an error and thus not break.
 
 ## Core Gameplay Mechanics (Brief)
 
