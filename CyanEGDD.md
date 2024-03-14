@@ -2,6 +2,8 @@
 
 ## Elevator Pitch
 
+In Boolean Bonanza, you are presented with a grid of squares representing boolean values and operators (True, False, OR, AND, NOT, etc.). The player is able to move the rows and columns by clicking and dragging on a square, with the goal of making a row or column evaluate to True. If a row or column evaluates to True, it will be destroyed and give the player points. The goal is to make players able to evaluate boolean expressions on sight and understand how changes will affect their evaluation.
+
 *A one sentence pitch for your game. Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds. Check [this resource](http://www.gameacademy.com/perfecting-indie-games-elevator-pitch/) for more information.*
 
 ## Influences (Brief)
