@@ -88,19 +88,13 @@ The exact format of the test will be multiple choice where the student will be t
 - The visuals of the game will mimic a Nintendo/Indie game with a bright and attractive atmosphere.
 - With all input involving the shifting of blocks, the controls of the game are simple and easy to learn.
 - The simple nature of the game along with its flashiness will be addictive to players.
-- NEEDS MORE?
-
-- *Reason #1*
-- *Reason #2*
-- *Reason #3*
-- *Reason #4*
-- *etc.*
+- Players will improve their speed at evaluating boolean expressions as they improve at the game.
 
 # Player Interaction Patterns and Modes
 
 ## Player Interaction Pattern
 
-*Describe how people play your game, how many players are involved at once, how they interact with the system works, etc.*
+Players will use a mouse or touchscreen to press buttons and drag blocks across the screen. Players will engage with the game by themselves or competitively. One player at a time will actively play the game while trying to achieve a high score in the time allotted. After that player is finished, other players can use the same device to attempt to reach a new high score. In this way, players can compete and try to achieve their own personal high score or a score higher than their friends.
 
 ## Player Modes
 
@@ -122,6 +116,7 @@ The exact format of the test will be multiple choice where the student will be t
 
 # Procedures/Actions
 
+During menu screens such as the main menu, the player will be able to move the mouse cursor and click on buttons to enter the game or change settings. On the gameplay screen, the player will use the mouse cursor to drag blocks across the screen. Clicking and holding down the mouse button on a block of the grid will allow the player to drag that block up, down, left, or right. The other blocks in that same row or column (depending on the direction of dragging) will also move to follow that block while wrapping around the edges of the screen. This allows the player to rearrange the blocks on the grid while still providing a challenge to plan moves in advance.
 *Describe the control scheme and what actions a user can take in the game.*
 
 # Rules
