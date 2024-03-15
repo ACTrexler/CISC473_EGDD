@@ -22,10 +22,11 @@ In Boolean Bonanza, you are presented with a grid of squares representing boolea
 
 *Give a very high-level description of any core gameplay mechanics*
 
-- *Gameplay Mechanic #1*
-- *Gameplay Mechanic #2*
-- *Gameplay Mechanic #3*
-- *Gameplay Mechanic #4*
+- Players are presented with a grid of squares representing boolean values and operators.
+- Players can click and drag rows or columns on the grid of blocks to rearrange them.
+- When a row (left to right) or a column (top to bottom) of boolean blocks evaluates to True, it will break and give the player points.
+- After blocks break, the blocks above them will fall down until they are supported from below, with new blocks being spawned on the top of the grid.
+- A timer will be displayed to let the player know how much more time they have in the current level before it ends.
 
 # Learning Aspects
 
