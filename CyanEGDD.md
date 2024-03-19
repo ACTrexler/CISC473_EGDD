@@ -35,7 +35,7 @@ In Boolean Bonanza, you are presented with a grid of squares representing boolea
 *Briefly list any and all of the disciplines and learning domains for this subject.*
 Logic
 Discrete Math
-Introducotry Programming (language is irrelevant given it has boolean values)
+Introductory Programming (language is irrelevant given it has boolean values)
 
 ## Target Audiences
 
@@ -74,11 +74,11 @@ Boolean Bonanza can be used at home as a study tool in order to practice boolean
 *If proposing a new instrument, briefly and concisely list some example assessment questions.*
 
 A short pre-test and matching post-test should be designed to assess student learning.
-The exact format of the test will be multiple choice where the student will be tasked with identifying which boolean expression of the four options provided evaluates to true. Students will be assesed based on their accuracy and efficiency.
+The exact format of the test will be multiple choice where the student will be tasked with identifying which boolean expression of the four options provided evaluates to true. Students will be assessed based on their accuracy and efficiency.
 
-- Given a list of four boolean expression with two variables, identify the expression that evaluates to true.
-- Given a list of four boolean expression with three variables, identify the expression that evaluates to true.
-- Given a list of four boolean expression with four variables, identify the expression that evaluates to true.
+- Given the following boolean expression, determine whether it evaluates to True, False, or an Error: True AND False OR NOT True (False)
+- Given the following boolean expression, determine whether it evaluates to True, False, or an Error: False OR True AND True (True)
+- Given the following boolean expression, determine whether it evaluates to True, False, or an Error: True AND True OR AND FALSE (Error)
 
 # What sets this project apart?
 
