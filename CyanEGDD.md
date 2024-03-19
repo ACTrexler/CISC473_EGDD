@@ -166,10 +166,12 @@ During menu screens such as the main menu, the player will be able to move the m
 
 ## Graphical
 
-- Characters List
-  - *Characters 1*
-  - *Characters 2*
-  - *...*
+- Boolean Blocks
+ - <img src="https://github.com/ACTrexler/CISC473_EGDD/blob/main/True.png?raw=true" alt="True Block" width="200"/>
+ - <img src="https://github.com/ACTrexler/CISC473_EGDD/blob/main/False.png?raw=true" alt="False Block" width="200"/>
+ - <img src="https://github.com/ACTrexler/CISC473_EGDD/blob/main/And.png?raw=true" alt="And Block" width="200"/>
+ - <img src="https://github.com/ACTrexler/CISC473_EGDD/blob/main/Or.png?raw=true" alt="Or Block" width="200"/>
+ - <img src="https://github.com/ACTrexler/CISC473_EGDD/blob/main/Not.png?raw=true" alt="Not Block" width="200"/>
 - Textures:
   - *Texture 1*
   - *Texture 2*
