@@ -188,14 +188,14 @@ During menu screens such as the main menu, the player will be able to move the m
 *Game region/phase/time are ways of designating a particularly important place in the game.*
 
 - Music List (Ambient sound)
-  - Main Menu Music: [Puzzle Menu by caret7](https://opengameart.org/content/puzzle-menu)
-  - *Game region/phase/time*: *Example 3*, *Example 4*
+  - Main Menu Music: [Puzzle Menu by caret7](https://opengameart.org/content/puzzle-menu), [Menu by tcarisland](https://opengameart.org/content/menu-1)
+  - Gameplay Music: [Contemplation by bart](https://opengameart.org/content/contemplation), [Contemplation II by bart](https://opengameart.org/content/contemplation-ii)
   
 *Game Interactions are things that trigger SFX, like character movement, hitting a spiky enemy, collecting a coin.*
 
 - Sound List (SFX)
-  - *Game Interaction*: *Example 1*, *Example 2*
-  - *Game Interaction*: *Example 3*, *Example 4*
+  - Button Press: [8bit Menu Highlight by Fupi](https://opengameart.org/content/8bit-menu-highlight), [Clock Click by Mobeyee Sounds](https://opengameart.org/content/cloud-click)
+  - Block Breaking: [Cork by Blender Foundation](https://opengameart.org/content/cork), [Breaking/Falling/Hit SFX by rubberduck](https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx)
 
 
 # Metadata
