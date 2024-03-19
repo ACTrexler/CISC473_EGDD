@@ -177,7 +177,7 @@ During menu screens such as the main menu, the player will be able to move the m
   - *Texture 2*
   - *...*
 - Environment Art/Textures:
-  - *Environment Texture 1*
+  - <img src="https://github.com/ACTrexler/CISC473_EGDD/blob/main/ExampleBackplate.png?raw=true" alt="Example Backplate" width="300"/>
   - *Environment Texture 2*
   - *...*
 
