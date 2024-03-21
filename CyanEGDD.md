@@ -162,6 +162,8 @@ During menu screens such as the main menu, the player will be able to move the m
 
 ## Aethestics
 
+The game is designed to immerse players in a nostalgic arcade atmosphere, with soft and bright colors that create a comforting and enjoyable visual experience reminiscent of old-timey Nintendo games. Its pixelated graphics and simple animations evoke a sense of retro charm, making the world both inviting and familiar. The chiptune soundtrack and classic sound effects further enhance the nostalgic feel, transporting players back to the golden era of gaming. Together, these elements combine to offer an experience that's not only visually and auditorily captivating but also emotionally resonant with fans of early video gaming.
+
 *Give a sense of the aesthetics of your game, the spirit and atmosphere. Use descriptive, evocative words that can help the reader understand the emotional response of your game.*
 
 ## Graphical
