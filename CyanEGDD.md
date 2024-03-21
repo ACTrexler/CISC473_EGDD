@@ -189,10 +189,12 @@ The game is designed to immerse players in a nostalgic arcade atmosphere, with s
  - <img src="https://github.com/ACTrexler/CISC473_EGDD/blob/main/And.png?raw=true" alt="And Block" width="200"/>
  - <img src="https://github.com/ACTrexler/CISC473_EGDD/blob/main/Or.png?raw=true" alt="Or Block" width="200"/>
  - <img src="https://github.com/ACTrexler/CISC473_EGDD/blob/main/Not.png?raw=true" alt="Not Block" width="200"/>
-- Textures:
-  - *Texture 1*
-  - *Texture 2*
-  - *...*
+- Particle Textures:
+  - [AlotofImpacts Red Particles by JoesAlotofthings](https://opengameart.org/content/alotofimpacts-5-frame-impacts-4-variations-red-impacts-19of20)
+  - [AlotofImpacts Green Particles by JoesAlotofthings](https://opengameart.org/content/alotofimpacts-5-frame-impacts-4-variations-green-impacts-15of20)
+  - [AlotofImpacts Blue Particles by JoesAlotofthings](https://opengameart.org/content/alotofimpacts-5-frame-impacts-4-variations-blue-impacts-14of20)
+  - [AlotofImpacts Purple Particles by JoesAlotofthings](https://opengameart.org/content/alotofimpacts-5-frame-impacts-4-variations-purple-impacts-18of20)
+  - [AlotofImpacts Yellow Particles by JoesAlotofthings](https://opengameart.org/content/alotofimpacts-5-frame-impacts-4-variations-yellow-impacts-20of20)
 - Environment Art/Textures:
   - <img src="https://github.com/ACTrexler/CISC473_EGDD/blob/main/ExampleBackplate.png?raw=true" alt="Example Backplate" width="300"/>
   - *Environment Texture 2*
