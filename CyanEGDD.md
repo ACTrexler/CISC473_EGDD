@@ -121,6 +121,8 @@ During menu screens such as the main menu, the player will be able to move the m
 
 # Rules
 
+Time - The player will be given limited time to create as many valid boolean expressions as possible. They do not have a limit on the number of moves that they can make, so having time as a finite resource will force the player to make decisions and movements at a higher rate, leading to some mistakes that will ultimately affect their end of game results. The player starts the game with a fixed amount of time, and once that time runs out the game will be over.
+
 *What resources are available to the player that they make use of?  How does this affect gameplay? How are these resources finite?*
 
 # Objects/Entities
