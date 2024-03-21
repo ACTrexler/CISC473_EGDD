@@ -157,6 +157,8 @@ The player will be guided through a playable tutorial in which they will be maki
 
 *Briefly describe how the player will be taught the core material they are meant to learn. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching material iteratively and slowly.*
 
+The playable tutorial will demonstrate to the player how the game is actually meant to be played. From that point, the player will be started off playing the game on the lowest difficulty on the smallest grid. At this point, the time pressure will not be severe and the player will get the opportunity to get their bearings with smaller and easier to handle boolean statements. After completion of these easier grid levels, the player will begin getting exposed to larger grids with less time to work with, forcing them to adapt and learn how to handle larger, more complex booleans. This cycle will continue until the time pressure becomes too great and the player will not be able to get an acceptable score. Because the learning aspect is so heavily tied into the core gameplay mechanics, the player's success within the game will be directly tied to their understanding of what a valid boolean statement is and how to create one given a set amount of variables. 
+
 ## Story (Brief)
 
 *The Summary or TL;DR version of below*
