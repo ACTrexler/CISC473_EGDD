@@ -161,7 +161,7 @@ The playable tutorial will demonstrate to the player how the game is actually me
 
 ## Story (Brief)
 
-*The Summary or TL;DR version of below*
+The player will be tasked with a series of boolean puzzles under a time constraint. The game will present a grid to the player involving blocks consistiing of boolean operators and true/false indicators. The player must rearrange these blocks in order to make as many valid boolean statements as they can before the time is up. After doing the puzzles many times, the player will be able to see the progress they have made in making truthiness statements.
 
 ## Storyboarding
 
