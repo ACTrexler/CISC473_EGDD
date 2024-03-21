@@ -230,3 +230,5 @@ The game is designed to immerse players in a nostalgic arcade atmosphere, with s
 
 * Template created by Austin Cory Bart <acbart@udel.edu>, Mark Sheriff, Alec Markarian, and Benjamin Stanley.
 * Version 0.0.3
+
+* Shoutout ChatGPT for helping generate the spiels on the Core Gameplay Mechanics
