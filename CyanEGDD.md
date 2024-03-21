@@ -144,7 +144,12 @@ Background - The background will be behind the grid, and will not serve any real
 
 *Explicitly describe what visual/audio/animation indicators there are that give players feedback on their progress towards their gameplay objectives (and ideally the learning objectives).*
 
+Blocks Breaking - When a valid boolean statement is created using the blocks, the blocks themselves will "break" and this break will consist of the blocks disappearing off the screen, each block will have a shattering animation that they leave behind along with a "breaking" audio cue to commend the player on the creation of a valid boolean statement.
+Medal Acquisition - Every time a valid boolean statement is created and the statement disappears from the screen, a fixed amount of points will be added to the players scoreboard on the top of the screen. Once these scores reach a certain threshold, there will be a small animation and audio cue indicating that the player has passed this threshold. An example of this would be going from a silver medal to a gold medal. The silver medal will slide down and be replaced with a gold medal from above. While this process is happening, there will be a metallic audio cue to indicate the upgrade of score. 
+
 *Describe what longer-term feedback you detect and give that guides the player in their learning and lets them know how they are doing in regards to the learning objectives.*
+
+High Scores - There will be a log for all of the previous scores that a player has gotten. The scores themselves will track the amount of boolean statements created in the amount of time that it took. Based on this metric, the player will be able to see how they have progressed in terms of speed and accuracy when it comes to the creation of boolean statements.
 
 # Story and Gameplay
 
