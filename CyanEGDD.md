@@ -125,6 +125,12 @@ Time - The player will be given limited time to create as many valid boolean exp
 
 # Objects/Entities
 
+Blocks - In order to populate the grid that we have acting as our game board, we will need to design blocks that each depict a different aspect of a boolean statement. We will need a block for True, False, AND, OR, and NOT. Each block will be differentiated based upon their name and color scheme.
+Grid - The grid will act as the game board which will be a fixed size but can be altered depending on the difficulty of the level/phase. The grid itself will be populated by blocks, which will be stored in a double array. The grid itself will not be a highlight and will not really stick out to the player, it only really creates the boundaries of the game board.
+Timer - A timer will be created at the top of the grid that will tick downwards, displaying to the player the amount of time they have left in the level. The timer will look analog with a black background and white text for the numbers. Once the timer is finished, the timer will display 0:00 in red numbers to indicate the level is over.
+Scoreboard - A scoreboard will be create at the top of the grid, beside the timer in order to display the players score for the current level. The scoreboard will initially be listed with the players name above a 0000 to indicate that the player has no points at the start of the level. Once a valid boolean statement is created, the row/column will break and the player will be awarded a certain amount of points that will be reflected on the scoreboard.
+Background - The background will be behind the grid, and will not serve any real purpose outside of visual appeal. Depending on the difficulty of the level, could be a solid color or something more extreme to reflect the difficulty of the challenge that the player is undertaking.
+
 *What other things are in the world that you need to design? These may or may not directly translate to actual objects and classes.*
 
 ## Core Gameplay Mechanics (Detailed)
