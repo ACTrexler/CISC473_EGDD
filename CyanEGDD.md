@@ -53,10 +53,7 @@ Boolean Bonanza can be used at home as a study tool in order to practice boolean
 
 -  Truthiness of Booleans: By the end of the lesson, players will be able to explain the truthiness of a boolean expression with at least two variables
 -  Adjustment of Booleans: By the end of the lesson, players will be able to rearrange boolean expressions in order to achieve a truthful outcome.
-
-- *Short Name*: *Formal Learning Objective #1*
-- *Short Name*: *Formal Learning Objective #2*
-- *Short Name*: *Formal Learning Objective #3*
+- Boolean Algebra: By the end of the lesson, players will be able to recognize the order of operations for boolean algebra. Students will learn the priority of operations is NOT, then AND, then OR.
 
 ## Prerequisite Knowledge
 
@@ -100,7 +97,8 @@ Players will use a mouse or touchscreen to press buttons and drag blocks across 
 
 *Your game has one or more player modes. Describe each discrete mode, considering things like menus too. Generally describe the transitions between modes too.*
 
-- Main Menu: allows the player to pick between a 3 x 3 and 5 x 5 depending on the player's experience.
+- Main Menu: allows the player to pick between a 3 x 3 and 5 x 5 depending on the player's experience. The player will also be given the option to play the tutorial.
+- Tutorial: the player will be taken through a playable tutorial in which they learn the mechanics of the game. After completing the turoial the player will be guided back to the main menu.
 - 3 x 3 Boolean Grid: the player will make valid boolean statements with only one operator. After completing this level they will be given the option to play again or move on to the next level.
 - 5 x 5 Boolean Grid: the player will make valid boolean statements with two operators. After completing this level they will be given the opportunity to play again.
 
@@ -147,6 +145,7 @@ Time - The player will be given limited time to create as many valid boolean exp
 ## Presentation of Rules
 
 *Briefly describe how the player will learn the gameplay mechanics. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching mechanics iteratively and slowly.*
+The player will be guided through a playable tutorial in which they will be making valid truthiness statements. The tutorial will take the player through each mechanic of the game. The player will be shown how to move operators in position to make valid boolean statements in order to add points to their score. After making a series of statements the player will be directed to the main menu where they can choose to play the game on their own.
 
 ## Presentation of Content
 
