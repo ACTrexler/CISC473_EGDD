@@ -197,9 +197,7 @@ The game is designed to immerse players in a nostalgic arcade atmosphere, with s
   - [AlotofImpacts Yellow Particles by JoesAlotofthings](https://opengameart.org/content/alotofimpacts-5-frame-impacts-4-variations-yellow-impacts-20of20)
 - Environment Art/Textures:
   - <img src="https://github.com/ACTrexler/CISC473_EGDD/blob/main/ExampleBackplate.png?raw=true" alt="Example Backplate" width="300"/>
-  - *Environment Texture 2*
-  - *...*
-
+  - <img src="https://github.com/ACTrexler/CISC473_EGDD/blob/main/MainMenuMockup.png?raw=true" alt="Main Menu Mockup" width="300"/>
 
 ## Audio
 
