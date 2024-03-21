@@ -140,7 +140,10 @@ Background - The background will be behind the grid, and will not serve any real
 - *Core Gameplay Mechanic #3*: *Describe in 2 paragraphs or less, along with how it generally works*
   
 - Players are presented with a grid of squares representing boolean values and operators: Players will either be presented with a 3 x 3 grid involving only two boolean values or a 5 x 5 grid involving at least two boolean values. Within this grid the player will find boolean values True and False represented by T and F. The player will also see operators such as NOT, AND, and OR. Using this grid the player will have to determine how they can rearrange these elements in order to make true boolean statements.
-
+- Players can click and drag rows or columns on the grid of blocks to rearrange them.
+- When a row (left to right) or a column (top to bottom) of boolean blocks evaluates to True, it will break and give the player points.
+- After blocks break, the blocks above them will fall down until they are supported from below, with new blocks being spawned on the top of the grid.
+- A timer will be displayed to let the player know how much more time they have in the current level before it ends.
     
 ## Feedback
 
