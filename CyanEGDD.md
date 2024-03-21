@@ -163,7 +163,13 @@ The player will be guided through a playable tutorial in which they will be maki
 
 ## Storyboarding
 
-*Go into as much detail as needs be to visually convey the Dynamics of your game. Be detailed. Create storyboards and freeze frame images that concisely capture important key elements of your game. You are strongly recommended to sketch pictures on paper and embed them here. Be sure make it clear how previously-described mechanics come through in the dynamics.*
+Main Gameplay Storyboard:
+
+<img src="https://github.com/ACTrexler/CISC473_EGDD/blob/main/BooleanGameMockup/1.png?raw=true" alt="Story Board 1" width="300">
+<img src="https://github.com/ACTrexler/CISC473_EGDD/blob/main/BooleanGameMockup/2.png?raw=true" alt="Story Board 1" width="300">
+<img src="https://github.com/ACTrexler/CISC473_EGDD/blob/main/BooleanGameMockup/3.png?raw=true" alt="Story Board 1" width="300">
+<img src="https://github.com/ACTrexler/CISC473_EGDD/blob/main/BooleanGameMockup/4.png?raw=true" alt="Story Board 1" width="300">
+<img src="https://github.com/ACTrexler/CISC473_EGDD/blob/main/BooleanGameMockup/5.png?raw=true" alt="Story Board 1" width="300">
 
 # Assets Needed
 
